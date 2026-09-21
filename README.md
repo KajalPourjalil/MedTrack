@@ -1,2 +1,2 @@
 # MedTrack
-A healthcare anagement system
+A healthcare management system
