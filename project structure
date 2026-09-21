@@ -1,0 +1,19 @@
+medtrack/                    ← Git repository
+│
+├── .git/
+├── .gitignore
+├── README.md
+├── pom.xml                 ← Maven project
+├── mvnw
+├── mvnw.cmd
+├── .mvn/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   └── resources/
+│   │
+│   └── test/
+│       └── java/
+│
+└── docker-compose.yml       ← later
